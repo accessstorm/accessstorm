@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jayavrata sengupta</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate coder from India</h3>
 
 - 🔭 I’m currently working on [scrolling shooter game](https://github.com/Datawangler2023/Scrolling_shooter_Game)
 
