@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jayavrata sengupta</h1>
 <h3 align="center">A passionate coder from India</h3>
-
+<h4 align="center">       B.E. Aiml</h4>
 - 🔭 I’m currently working on [scrolling shooter game](https://github.com/Datawangler2023/Scrolling_shooter_Game)
 
 - 🌱 I’m currently learning **python3, css and java**
@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/jayavrata sengupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jayavrata sengupta" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jayavrata-sengupta-123a62298/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jayavrata sengupta" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/accessstorm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="accessstorm" height="30" width="40" /></a>
 </p>
 
