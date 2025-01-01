@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jayavrata sengupta</h1>
 <h3 align="center">A passionate coder from India</h3>
 <h4 align="center">       B.E. Aiml</h4>
-- 🔭 I’m currently working on [scrolling shooter game](https://github.com/Datawangler2023/Scrolling_shooter_Game)
+<!-- - 🔭 I’m currently working on [scrolling shooter game](https://github.com/Datawangler2023/Scrolling_shooter_Game) -->
 
-- 🌱 I’m currently learning **python3, css and java**
+- 🌱 I’m currently learning **python, MERN stack**
 
 - 💬 Ask me about **calculus and algebra**
 
