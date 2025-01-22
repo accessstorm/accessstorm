@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Jayavrata Sengupta</h1>
 <h3 align="center">A passionate coder from India</h3>
 <h4 align="center">       B.E. Aiml</h4>
-- 🔭 I’m currently working on GEN AI related projects
+- 🔭 I’m currently working on **GEN AI related projects**
 
 - 🌱 I’m currently learning **Python, MERN stack**
 
 - 💬 Ask me about **calculus and algebra**
 
 - 📫 How to reach me **jayavratasengupta1889@gmail.com**
-
-- ⚡ Fun fact **I play chess and spend time sketching postures**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -34,10 +32,4 @@
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> 
   </a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="expressjs" width="40" height="40"/> 
-  </a>
-  <a href="https://developers.google.com/apps-script" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Apps_Script.svg" alt="apps-script" width="40" height="40"/> 
-  </a> 
 </p>
