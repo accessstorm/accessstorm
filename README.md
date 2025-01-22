@@ -1,13 +1,10 @@
 <h1 align="center">Hi 👋, I'm Jayavrata Sengupta</h1>
 <h3 align="center">A passionate coder from India</h3>
 <h4 align="center">       B.E. Aiml</h4>
-- 🔭 I’m currently working on **GEN AI related projects**
-
-- 🌱 I’m currently learning **Python, MERN stack**
-
-- 💬 Ask me about **calculus and algebra**
-
-- 📫 How to reach me **jayavratasengupta1889@gmail.com**
+- 🔭 I’m currently working on **GEN AI related projects**<br>  
+- 🌱 I’m currently learning **Python, MERN stack**<br>  
+- 💬 Ask me about **calculus and algebra**<br>  
+- 📫 How to reach me **jayavratasengupta1889@gmail.com**<br> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
