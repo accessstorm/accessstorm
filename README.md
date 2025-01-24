@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **Python, MERN stack**<br>  
 - 💬 Ask me about **calculus and algebra**<br>  
 - 📫 How to reach me **jayavratasengupta1889@gmail.com**<br> 
-<h3 align="center">Check my starred Repositories for some awesome</h3>
+<h3 align="center">Check my starred for some awesome repositories</h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/jayavrata-sengupta-123a62298/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jayavrata sengupta" height="30" width="40" /></a>
