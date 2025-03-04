@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jayavrata Sengupta</h1>
-<h3 align="center"><a href="https://realrbas.pythonanywhere.com/">Portfolio</a>a</h3>
+<h3 align="center"><a href="https://realrbas.pythonanywhere.com/">Portfolio</a></h3>
 <h3 align="center">A passionate coder from India</h3>
 <h4 align="center">B.E. Aiml</h4>
 - 🔭 I’m currently working on **GEN AI related projects**<br>  
