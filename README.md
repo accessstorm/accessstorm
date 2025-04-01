@@ -31,8 +31,8 @@ const jayavrata = {
 ```
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=accessstorm&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=accessstorm&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
 </div>
 
 ## 🚀 Currently Working On
@@ -66,7 +66,7 @@ const jayavrata = {
 ## 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=accessstorm&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 ## 🌐 Full Stack Developer
@@ -75,7 +75,7 @@ const jayavrata = {
 📱 Frontend                                            🖥️ Backend
 ┌───────────────────────────────┐                  ┌───────────────────────────────┐
 │   React.js                    │                  │   Node.js                     │
-│   Next.js                     │◀━━━━━━━━━━━━━━━━▶│   Express.js                  │
+│   Next.js                     │◀━━━━━━━━━━━━━━━▶│   Express.js                  │
 │   HTML/CSS                    │       API        │                               │
 │   TypeScript                  │                  │                               │
 └───────────────────────────────┘                  └───────────────────────────┬───┘
@@ -96,7 +96,7 @@ const jayavrata = {
 
 <div align="center">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=flat-square)
+  ![Profile Views](https://komarev.com/ghpvc/?username=accessstorm&color=blueviolet&style=flat-square)
   
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
   
