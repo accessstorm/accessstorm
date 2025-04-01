@@ -117,7 +117,7 @@ const jayavrata = {
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=accessstorm&repo=https://github.com/accessstorm/Precrast/tree/master&theme=tokyonight" width="49%" />
   </a>
   <a href="https://github.com/accessstorm">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=accessstorm&repo=https://github.com/accessstorm/Universally&theme=tokyonight" width="49%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=accessstorm&repo=Universally&theme=tokyonight" width="49%" />
   </a>
 </div>
 
