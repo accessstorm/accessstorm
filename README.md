@@ -110,16 +110,6 @@ const jayavrata = {
                                                    └───────────────────────────────┘
 ```
 
-## <img src="https://media.giphy.com/media/l0Iyk1TK8al1TzvUY/giphy.gif" width="35"> Projects
-
-<div align="center">
-  <a href="https://github.com/accessstorm">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=accessstorm&repo=Crypton&theme=tokyonight" width="49%" />
-  </a>
-  <a href="https://github.com/accessstorm">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=accessstorm&repo=Universally&theme=tokyonight" width="49%" />
-  </a>
-</div>
 
 ## ✨ Check my starred repositories for awesome content!
 
