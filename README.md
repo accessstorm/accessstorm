@@ -78,11 +78,6 @@ const jayavrata = {
   
 </div>
 
-## <img src="https://media.giphy.com/media/uhWLu2lsU0rfLiwYlI/giphy.gif" width="30"> GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=accessstorm&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
 
 ## <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="35"> Full Stack Developer
 
