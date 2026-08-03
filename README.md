@@ -5,15 +5,11 @@
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&random=false&width=600&lines=AI+%26+ML+Engineering+Student;Full+Stack+Developer;GenAI+Enthusiast;Math+Lover)](https://realrbas.pythonanywhere.com/)
   
   <div>
-    <a href="https://realrbas.pythonanywhere.com/" target="_blank"><img src="https://img.shields.io/badge/🔥_PORTFOLIO-Visit_Website-blue?style=for-the-badge&logo=firefox-browser" alt="Portfolio"/></a>
-    <a href="https://realrbas.pythonanywhere.com/" target="_blank"><img src="https://img.shields.io/badge/🌐_VISIT_WEBSITE-4285F4?style=for-the-badge" alt="Website"/></a>
+    <a href="jayavrata-sengupta.vercel.app" target="_blank"><img src="https://img.shields.io/badge/🔥_PORTFOLIO-Visit_Website-blue?style=for-the-badge&logo=firefox-browser" alt="Portfolio"/></a>
     <a href="https://www.linkedin.com/in/jayavrata-sengupta-123a62298/" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
-    <a href="#" target="_blank"><img src="https://img.shields.io/badge/CONNECT-1DA1F2?style=for-the-badge" alt="Connect"/></a>
     <a href="https://www.leetcode.com/accessstorm" target="_blank"><img src="https://img.shields.io/badge/⚡_LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
     <a href="#" target="_blank"><img src="https://img.shields.io/badge/PROFILE-FF6B6B?style=for-the-badge" alt="Profile"/></a>
-    <a href="mailto:jayavratasengupta1889@gmail.com" target="_blank"><img src="https://img.shields.io/badge/📧_EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-    <a href="#" target="_blank"><img src="https://img.shields.io/badge/CONTACT-FF6F61?style=for-the-badge" alt="Contact"/></a>
-  </div>
+    <a href="mailto:jayavratasengupta9881@gmail.com" target="_blank"><img src="https://img.shields.io/badge/📧_EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </div>
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
